@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 285" width="1200" height="285" role="img" aria-label="Leonardo Lasso — Systems Development student, aspiring Software Engineer; focused on Backend and DevOps">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#1c0c39"/><stop offset=".52" stop-color="#100b20"/><stop offset="1" stop-color="#090a14"/></linearGradient>
+    <linearGradient id="purple" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#c084fc"/><stop offset=".55" stop-color="#a855f7"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#641fc5"/><stop offset=".49" stop-color="#2c1157"/><stop offset="1" stop-color="#100e26"/></linearGradient>
+    <radialGradient id="halo"><stop stop-color="#8b5cf6" stop-opacity=".31"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <filter id="glow"><feGaussianBlur stdDeviation="9"/></filter>
+  </defs>
+  <rect width="1200" height="285" rx="0" fill="url(#bg)"/>
+  <ellipse cx="1040" cy="125" rx="260" ry="260" fill="url(#halo)"/>
+  <path d="M0 235 C260 198 364 244 588 229 S1010 209 1200 243 L1200 285 L0 285Z" fill="url(#wave)" opacity=".88"/>
+  <path d="M0 235 C260 198 364 244 588 229 S1010 209 1200 243" fill="none" stroke="#9d4edd" stroke-opacity=".53" stroke-width="2"/>
+  <path d="M62 49 V205" stroke="#a855f7" stroke-width="5" stroke-linecap="round"/>
+  <text x="91" y="101" fill="#f8f7ff" font-size="60" font-weight="750" font-family="DejaVu Sans,Arial,sans-serif" letter-spacing="-2">Leonardo</text>
+  <text x="435" y="101" fill="url(#purple)" font-size="60" font-weight="750" font-family="DejaVu Sans,Arial,sans-serif" letter-spacing="-2">Lasso</text>
+  <text x="94" y="145" fill="#eee7ff" font-size="25" font-family="DejaVu Sans,Arial,sans-serif">Systems Development Student  ·  Aspiring Software Engineer</text>
+  <rect x="91" y="164" width="680" height="39" rx="12" fill="#532189" fill-opacity=".29" stroke="#a855f7" stroke-opacity=".55"/>
+  <text x="109" y="190" fill="#d8b4fe" font-size="18" font-weight="700" font-family="DejaVu Sans,Arial,sans-serif" letter-spacing=".1">BACKEND DEVELOPMENT   /   DEVOPS   /   SOFTWARE ENGINEERING</text>
+  <g fill="none" stroke="#ae6bff" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="933" y="58" width="192" height="151" rx="15" stroke-width="3" stroke-opacity=".6"/>
+    <path d="M934 91 H1123" stroke-width="3" stroke-opacity=".56"/>
+    <path d="M1000 121 L971 145 L1000 169"/>
+    <path d="M1062 121 L1091 145 L1062 169"/>
+    <path d="M1049 114 L1014 179"/>
+  </g>
+  <g fill="#d8b4fe"><circle cx="955" cy="76" r="4"/><circle cx="970" cy="76" r="4"/><circle cx="985" cy="76" r="4"/></g>
+  <path d="M878 40 H898 M898 40 V20 M1150 228 H1170 M1150 228 V248" fill="none" stroke="#9b5cff" stroke-width="3" opacity=".7"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="135" viewBox="0 0 1200 135" role="img" aria-label="Build. Learn. Deploy. Evolve.">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#150a29"/><stop offset=".52" stop-color="#251044"/><stop offset="1" stop-color="#12091f"/></linearGradient>
+<linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#7c3aed"/><stop offset=".5" stop-color="#c084fc"/><stop offset="1" stop-color="#7c3aed"/></linearGradient>
+</defs>
+<rect width="1200" height="135" fill="#0b0913"/>
+<path d="M0 50 C230 8 380 59 600 38 S975 22 1200 52 L1200 135 L0 135Z" fill="url(#bg)"/>
+<path d="M0 50 C230 8 380 59 600 38 S975 22 1200 52" stroke="#8b5cf6" stroke-width="2" opacity=".58" fill="none"/>
+<path d="M132 96 H360 M840 96 H1068" stroke="url(#accent)" stroke-width="2"/>
+<text x="600" y="103" fill="#f5f3ff" font-size="27" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif" font-style="italic" font-weight="700">&lt;/&gt;  Build  ·  Learn  ·  Deploy  ·  Evolve</text>
+</svg>
