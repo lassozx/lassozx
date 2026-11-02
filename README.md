@@ -1,6 +1,6 @@
 <!-- GitHub profile README | github.com/lassozx -->
 <div align="center">
-  <img src="assets/header.svg" alt="Leonardo Lasso — Systems Development Student | Backend, DevOps and Software Engineering" width="100%" />
+  <img src="header.svg" alt="Leonardo Lasso — Systems Development Student | Backend, DevOps and Software Engineering" width="100%" />
   <br/><br/>
   <a href="https://github.com/lassozx?tab=repositories"><img alt="Explore my projects" src="https://img.shields.io/badge/Explore_my_projects-25143e?style=for-the-badge&amp;logo=github&amp;logoColor=white" /></a>
   <img alt="Focus: Backend &amp; DevOps" src="https://img.shields.io/badge/Focus-Backend_%26_DevOps-7c3aed?style=for-the-badge" />
@@ -82,8 +82,8 @@
 <h2 align="center">✦ Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/lassozx/portal-138"><img src="assets/project-portal-138.svg" width="49%" alt="Portal 138 — React, Express, Prisma and PostgreSQL project" /></a>
-  <a href="https://github.com/lassozx/to-do-CRUD"><img src="assets/project-to-do-crud.svg" width="49%" alt="To-Do CRUD — REST API with Node.js, Express and SQLite" /></a>
+  <a href="https://github.com/lassozx/portal-138"><img src="project-portal-138.svg" width="49%" alt="Portal 138 — React, Express, Prisma and PostgreSQL project" /></a>
+  <a href="https://github.com/lassozx/to-do-CRUD"><img src="project-to-do-crud.svg" width="49%" alt="To-Do CRUD — REST API with Node.js, Express and SQLite" /></a>
 </div>
 
 <p align="center"><sub>Click on a project to explore its code, documentation, and architecture.</sub></p>
@@ -109,5 +109,5 @@
 <br/>
 
 <div align="center">
-  <img src="assets/footer.svg" alt="Build. Learn. Deploy. Evolve." width="100%" />
+  <img src="footer.svg" alt="Build. Learn. Deploy. Evolve." width="100%" />
 </div>
