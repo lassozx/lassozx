@@ -31,7 +31,7 @@
 
 <p align="center"><strong>Languages &amp; Frontend</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,html,css,react,tailwind&amp;theme=dark" alt="PHP, JavaScript, HTML, CSS, React and Tailwind CSS" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,go,html,css,react,tailwind,bootstrap&amp;theme=dark&amp;perline=9" alt="JavaScript, TypeScript, C, Go, HTML, CSS, React, Tailwind CSS and Bootstrap" />
 </p>
 
 <p align="center"><strong>Backend &amp; Databases</strong></p>
@@ -41,7 +41,8 @@
 
 <p align="center"><strong>Development Tools</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&amp;theme=dark" alt="Git, GitHub, VS Code, Linux and Docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,webstorm,linux,docker&amp;theme=dark" alt="Git, GitHub, VS Code, WebStorm, Linux and Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/goland/goland-original.svg" width="48" height="48" alt="GoLand" title="GoLand" />
 </p>
 
 <p align="center"><sub>Technologies I have worked with or am currently exploring. This isn't a claim of expert proficiency.</sub></p>
